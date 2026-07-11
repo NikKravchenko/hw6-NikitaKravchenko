@@ -1,0 +1,4 @@
+alembic==1.16.4
+Faker==37.4.2
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.42
